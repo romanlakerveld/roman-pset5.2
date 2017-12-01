@@ -1,7 +1,9 @@
 # App studio project: Restaurant Revisited
-Made in Android Studio. Allows the user to create TODO items and check them once they're completed. Item can be removed by a long click.
+Made in Android Studio. Allows the user to select a category and then menu items to put in an order. The order can then be submitted.
 ## Better code hub badge
 -[![BCH compliance](https://bettercodehub.com/edge/badge/romanlakerveld/roman-pset5?branch=master)](https://bettercodehub.com/)
 
-## Screenshot of app
-![screenshot](https://github.com/romanlakerveld/roman-pset4/blob/master/Screenshots/Screenshot_20171124-092251.png)
+## Screenshots of app
+<a href="url"><img src="https://github.com/romanlakerveld/roman-pset5.2/blob/master/app/sampledata/sc1.png" align="left" height="400" width="200" ></a>
+<a href="url"><img src="https://github.com/romanlakerveld/roman-pset5.2/blob/master/app/sampledata/sc2.png" align="left" height="400" width="200" ></a>
+<a href="url"><img src="https://github.com/romanlakerveld/roman-pset5.2/blob/master/app/sampledata/sc3.png" align="left" height="400" width="200" ></a>
