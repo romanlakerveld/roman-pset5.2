@@ -1,5 +1,5 @@
 # App studio project: Restaurant Revisited
-Made in Android Studio. Allows the user to create TODO items and check them once they're completed. Item can be removed by a long click.
+Made in Android Studio. Allows the user to select a category and then menu items to put in an order. The order can then be submitted.
 ## Better code hub badge
 -[![BCH compliance](https://bettercodehub.com/edge/badge/romanlakerveld/roman-pset5?branch=master)](https://bettercodehub.com/)
 
